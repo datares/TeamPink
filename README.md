@@ -1,4 +1,4 @@
-# Analyzing Spotify data
+# :notes: Analyzing Spotify data :notes:
 
 Contributors: Deepthi Gangiredla, Deana Moghaddas, Trina Nguyen, Ovie Soman, Zoeb Jamal
 
