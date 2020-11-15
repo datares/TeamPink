@@ -26,3 +26,12 @@ key | int | The estimated overall key of the track. Integers map to pitches usin
 artists | an array of simplified artist objects | The artists who performed the track.
 release_date |  | Date of release mostly in yyyy-mm-dd format, however precision of date may vary
 name | string | Name of the track.
+
+# Data Processing
+We didn't really have to clean up the dataset per se, since the dataset didn't contain any NaN values, nor any irregularities. However, in order to look at more specific relationships, we created subsets of the main datasets. These csvs can all be found at [```data/cleandata/```](https://github.com/datares/TeamPink/tree/main/data/cleandata). 
+
+# Analysis and Code
+We used python and Jupyter notebooks almost exclusively, along with a little bit of microsoft excel to merge data in the event that we couldn't use ```pd.merge```. All of the Jupyter notebooks and other scripts can be found at [```analysis/```](https://github.com/datares/TeamPink/tree/main/analysis).
+
+# Sources used
+For PCA, we followed [this](https://github.com/mGalarnyk/Python_Tutorials/blob/master/Sklearn/PCA/PCA_Data_Visualization_Iris_Dataset_Blog.ipynb) example from Michael Galarnyk
