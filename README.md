@@ -1,3 +1,4 @@
+Link to article: https://ucladatares.medium.com/spotify-trends-analysis-129c8a31cf04
 # :notes: Analyzing Spotify data :notes:
 
 Contributors: Deepthi Gangiredla, Deana Moghaddas, Trina Nguyen, Ovie Soman, Zoeb Jamal
